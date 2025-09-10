@@ -1,0 +1,12 @@
+langchain
+langchain-community
+pypdf
+ollama
+bs4
+langchain-core
+python-dotenv
+transformers
+langchain-ollama
+youtube-transcript-api
+pytube
+chromadb
